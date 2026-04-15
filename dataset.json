@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in Vermont, US",
+  "export_job_id": "38d9a915-70e4-44fa-8564-e71919ac4ef0",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 916741,
+  "location_name": "Vermont",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-vermont-us-sample-916741",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/916741/beamstation_916741_restaurants-us-vt_SAMPLE_DIST.csv",
+  "sample_pct": 11.9,
+  "sample_records": 5,
+  "sample_sha256": "c8a0f8e695dfa6c5742915deaf67b48a9841c6b08580d1b8c95d1c1fd8a3176e",
+  "sample_size_bytes": 36096,
+  "total_records": 42,
+  "updated_at": "2026-04-01T00:44:57.363006+00:00"
+}
