@@ -9,9 +9,9 @@
 | Dataset ID | `916741` |
 | Location | Vermont |
 | Category | Restaurants |
-| Full dataset size | 42 records |
-| Free sample size | 5 records (11.9%) |
-| Last export | 2026-04-01T00:44:57.363006+00:00 |
+| Full dataset size | 50 records |
+| Free sample size | 5 records (10.0%) |
+| Last export | 2026-04-15T02:37:09.805814+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-vermont-us-sample-916741/releases/download/sample-latest/beamstation_916741_restaurants-us-vt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
