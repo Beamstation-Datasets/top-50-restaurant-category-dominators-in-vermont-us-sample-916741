@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7688eced-e821-480b-9505-958a01cff9f0",
+  "export_job_id": "ce13486d-73e9-4110-ad59-3fe27445e4a9",
   "id_short": 916741,
-  "published_at": "2026-04-23T07:29:39Z",
+  "published_at": "2026-04-29T19:45:03Z",
   "repo_name": "top-50-restaurant-category-dominators-in-vermont-us-sample-916741",
   "sample_asset_name": "beamstation_916741_restaurants-us-vt_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/916741/beamstation_916741_restaurants-us-vt_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "8b7ea52b2a4facf776c20453df3922141cd596e1725ee2cdacb25623b6bbf01c",
-  "sample_size_bytes": 25639,
-  "total_records": 34
+  "sample_records": 5,
+  "sample_sha256": "d113ceef378f5253801cb6019d5a4f19f10e443ca79af52bb932366d61b5166c",
+  "sample_size_bytes": 35254,
+  "total_records": 51
 }
